@@ -11,6 +11,7 @@ Hasil saya menyudur dari penjelasan divideo pada pertemuan ke 2:
 
 <img src="pp2.png">
 
-<img src=""p2.png">
+<img src="p2.png">
 
 - Membuat Activity Diagram
+<img src="ad.png">
