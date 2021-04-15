@@ -7,4 +7,10 @@ Hasil saya menyudur dari penjelasan divideo pada pertemuan ke 2:
   contoh nama folder (2) untuk pertemuan ke 2 ,dst.
 - Perhitungan besaran nilai tugas dilihat berdasarkan kualitas konten file index.html di setiap pertemuan yang disadur atau berdasarkan kualitas isi dari file kesimpulan tersebut.
 - Analisa masalah,kemudian dilanjutkan dengan proses menganalisa sistem berjalan atau analisis sistem berjalan yang berisi SOP.
+<img src="ks.png">
+
+<img src="pp2.png">
+
+<img src=""p2.png">
+
 - Membuat Activity Diagram
